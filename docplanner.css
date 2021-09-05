@@ -1,0 +1,96 @@
+li {
+    display: inline;
+  }
+  li {
+    float: right;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+  }
+  ul {
+    background-color: #dddddd;
+  }
+  h1{
+    
+        position: relative;
+        left: -50px;
+        top: 100px;
+  }
+  body{
+    max-width: 850px;
+  margin:auto ;
+  }
+  h2{ 
+    position: relative;
+  right: 200px;
+  }
+  h1{
+    color: rgb(0, 255, 213);
+  }
+ p{
+   position: relative;
+ top: 150px; ;
+ right: 80px; ; 
+}
+.pp{
+  position: relative;
+left: 380px; ;
+
+}
+.pp{
+  margin-top: -85px;
+}
+#leftbox{
+  float: left;
+background: rgb(0, 255, 213);
+width: 25%; ;
+height: 300px; ;
+}
+#leftbox{
+  margin-top: 300px;
+margin-right: 20px;
+
+}
+
+
+#middlebox{
+float:left;
+background: rgb(0, 68, 255);
+width:25% ;
+height: 300px; ;
+}
+#middlebox{
+  margin-top: 300px ;
+margin-left: 15px;
+}
+#rightbox{
+float: right;
+background: rgb(12, 12, 12);
+width: 25%;
+height:300px ;
+}
+#rightbox{
+  margin-top:300px ;
+margin-right:170px ;
+}
+
+h3{
+  color: blanchedalmond;
+}
+#middlebox,#rightbox,#leftbox  {
+  color: #dddddd;
+}
+h2:before {
+  content: 'Docplanner';
+  color: #00ffdd;
+  
+}
+h2:after {
+  content: 'group';
+  color: #979393;
+  
+}
+
